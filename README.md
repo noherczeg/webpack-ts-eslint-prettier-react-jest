@@ -11,4 +11,4 @@ A starter project which is aimed to showcase how can we set up:
 - Jest: for testing
 - git configuration + .editorconfig: to ensure proper line endings, file encodings
 
-Added benefit is that test assertions can be ran independently inside any IDE, e.g.: Webstorm.
+Added benefit is that test assertions can be ran independently inside any IDE, e.g.: WebStorm.
